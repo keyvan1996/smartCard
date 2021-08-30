@@ -1,5 +1,5 @@
 ## Laravel Linktree
-Explore the project here (https://laravellinktree.herokuapp.com)
+Explore the project here: https://laravellinktree.herokuapp.com
 
 This project comprises three simple data models and related tables:
 
