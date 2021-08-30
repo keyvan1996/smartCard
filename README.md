@@ -1,7 +1,5 @@
 ## Laravel Links
 
-This is a demo application built alongside a video tutorial showing how to create a [linktr.ee](https://linktr.ee) clone using the [Laravel](https://laravel.com) PHP framework.
-
 This project comprises three simple data models and related tables:
 
 - **Users** are individual accounts that a person can create on the app
