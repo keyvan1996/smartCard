@@ -1,4 +1,4 @@
-## Laravel Links
+## Laravel Linktree
 
 This project comprises three simple data models and related tables:
 
